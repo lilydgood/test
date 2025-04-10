@@ -1,0 +1,41 @@
+       a{
+            color: antiquewhite;
+        }
+body{
+   font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(105, 37, 12, 0.86);
+    color: antiquewhite;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZpjCTSco08GIzC7Gg2E_i3jXGaiHdx4EL8w&s");
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+}
+h1,h2{
+    text-align: center;
+}
+img{
+border:5px solid white;
+padding: 5px;
+height: 300px;
+/* margin: auto;
+display: block; */
+}
+.rizz{
+    font-family: cursive;
+    color: rgb(106, 53, 0);
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 300%;
+    font-weight: bolder;
+    background-color: antiquewhite;
+}
+.rizz:hover{
+    color: antiquewhite;
+    background-color:rgba(105, 37, 12, 0.86) ;
+}
+li{
+    width:fit-content;
+}
+li:hover{
+text-decoration: underline;
+background-color: antiquewhite;
+color:rgba(105, 37, 12, 0.86) ;
+}
